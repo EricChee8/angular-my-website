@@ -1,0 +1,24 @@
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #121420;
+  color: white;
+  text-align: center;
+  padding: 0.1rem 1rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: end;
+  gap: 0.5rem;
+}
+
+.social-icon {
+  color: white;
+}
+p {
+  font-size: 11px;
+  text-align: center;
+  padding-top: 0.2rem;
+}

@@ -1,0 +1,47 @@
+.picture-of-me {
+  height: auto;
+  max-width: 70%;
+  border-radius: 12px;
+}
+
+h1,
+h5 {
+  color: white;
+  text-align: center;
+  letter-spacing: 0.05rem;
+  padding-bottom: 1.5rem;
+}
+
+p {
+  color: white;
+  word-spacing: 0.5rem;
+  font-size: 12px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-between;
+  width: 15rem;
+  margin-bottom: 1.3rem;
+  margin-top: 1.3rem;
+}
+
+a:hover {
+  -webkit-animation: fa-spin 2s infinite linear;
+  -moz-animation: fa-spin 2s infinite linear;
+  -o-animation: fa-spin 2s infinite linear;
+  animation: fa-spin 2s infinite linear;
+}
+
+.social-icon {
+  color: white;
+}
+
+.project {
+  background-color: #121420;
+  margin: 1rem;
+  padding: 3rem;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+}
